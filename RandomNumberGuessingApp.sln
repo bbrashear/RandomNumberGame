@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberGuessingAppConsole", "RandomNumberGuessingAppConsole\RandomNumberGuessingAppConsole.csproj", "{0B6121CA-1F4E-48C5-A3E5-3ABB4888ED75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6121CA-1F4E-48C5-A3E5-3ABB4888ED75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6121CA-1F4E-48C5-A3E5-3ABB4888ED75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6121CA-1F4E-48C5-A3E5-3ABB4888ED75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6121CA-1F4E-48C5-A3E5-3ABB4888ED75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24FD43C3-07ED-4EE4-A726-85BCBC9BCB9B}
+	EndGlobalSection
+EndGlobal
